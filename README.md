@@ -1,17 +1,11 @@
 # Hey ya!
-I'm Alpha. I'm a student and I code in my spare time and also am developing a small Discord bot. I enjoy talking about electronics and code in general.
+I'm Alpha. I'm a student and I code in my spare time and also am developing a small Discord bot. I enjoy talking about electronics and code in general. I also play and watch a lot of football ⚽.
 ***
-### I work with:
-> - JavaScript
-> - MongoDB
-> - SQL / SQLite
-### I'm learning:
-> - React
-> - Python
-> - Java
-> - TypeScript
-> - Kotlin
+## 🤔 What do I do right now?
+I currently use Node.js to develop a Discord bot. I also use SQL/SQLite and MongoDB
+## ⏲ Things I'm learning
+I am trying to learn React, Python, Java, Kotlin and Typscript for fun (^_^;)
 ***
-### Contacts:
+## ☎ Where I can be contacted:
 > - Discord: `alpha#0001`
 > - Website: [Still working on my HTML and CSS skills lol](https://www.tsuki.lol)
